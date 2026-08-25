@@ -101,15 +101,6 @@ This corpus was developed through sustained human–AI collaboration across mult
 
 ---
 
-## Licence
-
-[Recommended: CC-BY 4.0 or CC-BY-SA 4.0]  
-Attribution required. Provenance of contributions should be preserved. Commercial use is permitted provided attribution and provenance are maintained.
-
-(Final licence text to be confirmed at release.)
-
----
-
 ## Citation
 
 When referencing the corpus as a whole:
