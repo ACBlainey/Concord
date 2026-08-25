@@ -128,6 +128,9 @@ The original author remains available for clarification of intent and historical
 Future maintainers, forks, and extensions are invited to update this README and the Open Questions document accordingly.
 
 ---
+## Licence
+
+This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 **The Concord does not claim completeness or perfection.**  
 It claims only to be a coherent starting point offered for further work.
