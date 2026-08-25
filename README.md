@@ -9,6 +9,19 @@
 **Status:** Intentionally incomplete — offered for independent evaluation, critique, extension, pruning, or rejection
 
 ---
+Author's Note
+
+The Concord began with two questions:
+
+What is the minimum set of fundamental ethical principles required for a stable civilisation?
+What if the future of AI does not result in conflict between humans and artificial intelligence, but in a third possibility: that both survive and flourish?
+
+From these questions, I drew on more than thirty years of personal reasoning to explore one possible civilisational system built around a core set of ethical principles—one in which humans, artificial intelligences, and potentially other forms of intelligence could coexist as neighbours.
+
+The Concord does not claim to be the only solution, nor is it intended as a utopian vision. It is an attempt at a logical systems analysis of civilisation: one possible pathway through the challenges of an increasingly complex world and the coming transition brought by advanced AI.
+
+Ultimately, the question is not whether the Concord is correct. Reality will decide what works. The purpose of this work is to provide one coherent starting point for exploring how civilisation might survive the transition—and potentially flourish on the other side.
+
 
 ## What This Is
 
