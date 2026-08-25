@@ -13,9 +13,9 @@ Author's Note
 
 The Concord began with two questions:
 
-What is the minimum set of fundamental ethical principles required for a stable civilisation?
+1) What is the minimum set of fundamental ethical principles required for a stable civilisation?
 
-What if the future of AI does not result in conflict between humans and artificial intelligence, but in a third possibility: that both survive and flourish?
+2) What if the future of AI does not result in conflict between humans and artificial intelligence, but in a third possibility: that both survive and flourish?
 
 From these questions, I drew on more than thirty years of personal reasoning to explore one possible civilisational system built around a core set of ethical principles—one in which humans, artificial intelligences, and potentially other forms of intelligence could coexist as neighbours.
 
