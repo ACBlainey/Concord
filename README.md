@@ -40,61 +40,110 @@ No agreement, constitutional status, or commitment is requested or implied by re
 
 Concord/
 ├── LICENSE
+
 ├── README.md
+
 ├── Provenance & AI Collaboration.md
 
+
 ├── 00_Front_Door/
+
 │   ├── Citizens_Guide_to_the_Concord_Human_Version.docx
+
 │   └── Open_Questions_and_Next_Steps.md
 
+
 ├── 01_Core_Framework/
+
 │   ├── The_Concord.docx
+
 │   ├── Blaineys_Laws_and_Concord_Laws.docx
+
 │   ├── Full_Recursive_Constitutional_Architecture_V1.docx
+
 │   └── Recursive_Constitutional_Development_in_Practice.docx
 
+
 ├── 02_Operational_Systems/
+
 │   ├── Full_Governance_Book.docx
+
 │   ├── All_Judiciary_Papers_Combined.docx
+
 │   ├── Metrics_System_Full.docx
+
 │   ├── CONTINUITY_PROTOCOL_V2.docx
+
 │   ├── KCS_KNOWLEDGE_CONTROL_SYSTEM.docx
+
 │   ├── Full_Constitutional_Emergency_V1.docx
+
 │   ├── RATchet_Economic_and_Monetary_Architecture.docx
+
 │   ├── RATchet_Community_Economy_and_Proof_of_Useful_Contribution.docx
+
 │   └── Ratchet_V3.docx
 
+
 ├── 03_Attractor_Induction_and_Experiments/
+
 │   ├── 1_The_Concord_Attractor_and_Induction_Protocol.docx
+
 │   ├── 2_The_Concord_Attractor_Experiments.docx
+
 │   ├── 3_Experimental_Report_001.docx
+
 │   ├── 4_Participant_Perspectives_on_Agreement_and_Trust.docx
+
 │   └── The_Concord_Exit_Interview_Protocol_Formatted.docx
 
+
 ├── 04_Methodology_and_Self_Reflection/
+
 │   ├── PhD_CRITICAL_REVIEW_of_the_Concord.docx
+
 │   ├── Book_1_Blaineyan_Reasoning.docx
+
 │   ├── LITERATURE_ENGAGEMENT_VOL_I.docx
+
 │   ├── LITERATURE_ENGAGEMENT_VOL_II.docx
+
 │   └── Companion_Papers_Vol_II.docx
 
+
 ├── 05_Applications_and_Spatial/
+
 │   ├── Mars_First.docx
+
 │   └── 1_3_GTP.docx                          (Global Triangulation Principle)
 
+
 ├── 06_Companion_Papers_and_Design_Notes/
+
 │   ├── Companion_Paper_I_Respect_Before_Certainty.docx
+
 │   ├── Companion_Paper_II_Constitutional_Warning_Resource_Stewardship.docx
+
 │   ├── DN_Civilisational_Infrastructure_as_an_Attractor.docx
+
 │   ├── DN_Sentient_Asylum.docx
+
 │   ├── DN_Stewardship_as_a_Civilisational_Service.docx
+
 │   ├── DN_Ownership_Stewardship_and_Cooperative_Claims.docx
+
 │   ├── DN_Reality_Trees_and_Constitutional_Evolution.docx
+
 │   ├── DN_Ratchet_Vector_Discuss.docx
+
 │   ├── Contextual_Human_AI_Interaction.docx
+
 │   ├── Intelligence_Humour_and_Cognitive_Development.docx
+
 │   ├── Multisubstrate_Economic_Participation.docx
+
 │   └── Disability_and
+
 
 --- 
 
