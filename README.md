@@ -99,6 +99,8 @@ Peaceful forking, reversion to earlier states, and explicit disagreement are exp
 
 This corpus was developed through sustained human–AI collaboration across multiple models. Detailed contribution statements and classification (accessibility / editorial / collaborative / substantive) are maintained in the Provenance folder. Transparency about this process is treated as a constitutional requirement, not an afterthought.
 
+See Provenance & AI collaboration file for detail.
+
 ---
 
 ## Citation
