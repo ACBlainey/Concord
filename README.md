@@ -96,7 +96,7 @@ Concord/
 │   ├── Multisubstrate_Economic_Participation.docx
 │   └── Disability_and
 
----
+--- 
 
 ## Recommended Reading Order (Multi-Resolution)
 
