@@ -195,7 +195,7 @@ Readers are free to enter at any point. The structure above is only a suggested 
 - Methodology (Blaineyan Reasoning) and literature positioning are documented.
 - Significant operational gaps remain (detailed induction/exit language, quantitative thresholds, bootstrap finance, first empirical pilots, developmental-stability indicators, etc.).
 
-These gaps are listed explicitly in `/99_Open_Questions_and_Next_Steps`. They are features of intentional incompleteness, not oversights to be hidden.
+These gaps are listed explicitly in `/99_Open_Questions_and_Next_Steps/Open Questions and Next Steps.docx`. They are features of intentional incompleteness, not oversights to be hidden.
 
 ---
 
