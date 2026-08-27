@@ -54,18 +54,51 @@ No agreement, constitutional status, or commitment is requested or implied by re
 
 <pre>
 Concord/
-├── LICENSE
-├── README.md
-├── Provenance & AI Collaboration.md
 ├── 00_Front_Door/
-│   ├── Citizens_Guide_to_the_Concord_Human_Version.docx
-│   └── Open_Questions_and_Next_Steps.md
+│   ├── Citizen's Guide
+│   └── Open Questions & Next Steps
+│
 ├── 01_Core_Framework/
-│   ├── The_Concord.docx
-│   ├── Blaineys_Laws_and_Concord_Laws.docx
-│   ├── Full_Recursive_Constitutional_Architecture_V1.docx
-│   └── Recursive_Constitutional_Development_in_Practice.docx
-...
+│   ├── The Concord
+│   ├── Blainey's Laws & Concord Laws
+│   ├── Constitutional Architecture
+│   └── Recursive Constitutional Development
+│
+├── 02_Operational_Systems/
+│   ├── Governance
+│   ├── Judiciary
+│   ├── Metrics
+│   ├── Continuity
+│   ├── Knowledge Control
+│   ├── Emergency Systems
+│   └── Ratchet Economic Architecture
+│
+├── 03_Attractor_Induction_and_Experiments/
+│   ├── Attractor & Induction Protocol
+│   ├── Attractor Experiments
+│   ├── Experimental Reports
+│   └── Participant Perspectives
+│
+├── 04_Methodology_and_Self_Reflection/
+│   ├── Critical Review
+│   ├── Blaineyan Reasoning
+│   ├── Literature Engagement
+│   └── Companion Papers
+│
+├── 05_Applications_and_Spatial/
+│   ├── Mars First
+│   └── GTP
+│
+├── 06_Companion_Papers_and_Design_Notes/
+│   ├── Companion Papers
+│   ├── Design Notes
+│   └── Supporting Material
+│
+├── 98_Foundation_Papers/
+│
+├── 99_Open_Questions_and_Next_Steps/
+│
+└── Comparative_Work_&_Collaboration/
 </pre>
  
 
