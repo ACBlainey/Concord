@@ -5,6 +5,7 @@
 **Author:** Alexander C. Blainey  
 **Status:** AI-assisted comparative analysis  
 **Purpose:** To identify areas of convergence and divergence between the Concord Framework and David Wood's *Design Commitments for Trustworthy Technoprogressive Governance*, and to explore whether the two frameworks could reinforce one another.
+https://dw2blog.com/2026/07/25/design-commitments-for-trustworthy-technoprogressive-governance/
 
 ---
 
