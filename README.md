@@ -52,79 +52,21 @@ No agreement, constitutional status, or commitment is requested or implied by re
 
 ## Repository Structure
 
+<pre>
 Concord/
-│
-├── README.md
 ├── LICENSE
-├── Provenance & AI Collaboration
-│
+├── README.md
+├── Provenance & AI Collaboration.md
 ├── 00_Front_Door/
-│   ├── Citizen's Guide to the Concord
-│   │   └── Human Version
-│   └── Open Questions and Next Steps
-│
+│   ├── Citizens_Guide_to_the_Concord_Human_Version.docx
+│   └── Open_Questions_and_Next_Steps.md
 ├── 01_Core_Framework/
-│   ├── The Concord
-│   ├── Blainey's Laws and Concord Laws
-│   ├── Full Recursive Constitutional Architecture
-│   └── Recursive Constitutional Development in Practice
-│
-├── 02_Operational_Systems/
-│   ├── Full Governance Book
-│   ├── Judiciary Papers
-│   ├── Metrics System
-│   ├── Continuity Protocol
-│   ├── Knowledge Control System
-│   ├── Constitutional Emergency Framework
-│   └── RATchet
-│       ├── Economic & Monetary Architecture
-│       ├── Community Economy & Useful Contribution
-│       └── Ratchet V3
-│
-├── 03_Attractor_Induction_and_Experiments/
-│   ├── Concord Attractor & Induction Protocol
-│   ├── Concord Attractor Experiments
-│   ├── Experimental Report 001
-│   ├── Participant Perspectives on Agreement & Trust
-│   └── Concord Exit Interview Protocol
-│
-├── 04_Methodology_and_Self_Reflection/
-│   ├── Critical Review of the Concord
-│   ├── Blaineyan Reasoning — Book 1
-│   ├── Literature Engagement — Volume I
-│   ├── Literature Engagement — Volume II
-│   └── Companion Papers — Volume II
-│
-├── 05_Applications_and_Spatial/
-│   ├── Mars First
-│   └── Global Triangulation Principle (GTP)
-│
-├── 06_Companion_Papers_and_Design_Notes/
-│   ├── Companion Paper I — Respect Before Certainty
-│   ├── Companion Paper II — Constitutional Warning:
-│   │   Resource Stewardship
-│   ├── DN — Civilisational Infrastructure as an Attractor
-│   ├── DN — Sentient Asylum
-│   ├── DN — Stewardship as a Civilisational Service
-│   ├── DN — Ownership, Stewardship & Cooperative Claims
-│   ├── DN — Reality Trees & Constitutional Evolution
-│   ├── DN — Ratchet Vector Discussion
-│   ├── Contextual Human–AI Interaction
-│   ├── Intelligence, Humour & Cognitive Development
-│   ├── Multisubstrate Economic Participation
-│   └── Disability and AI
-│
-├── 98_Foundation_Papers/
-│   └── [Foundational / source material]
-│
-├── 99_Open_Questions_and_Next_Steps/
-│   └── [Open questions, gaps, proposed research & contribution opportunities]
-│
-├── Comparative_Work_&_Collaboration/
-│   └── [Comparative analyses and collaboration with other frameworks]
-│
-└── STUFF/
-    └── [Unclassified / temporary / working material]
+│   ├── The_Concord.docx
+│   ├── Blaineys_Laws_and_Concord_Laws.docx
+│   ├── Full_Recursive_Constitutional_Architecture_V1.docx
+│   └── Recursive_Constitutional_Development_in_Practice.docx
+...
+</pre>
  
 
 --- 
