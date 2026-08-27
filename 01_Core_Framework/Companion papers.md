@@ -1,3 +1,20 @@
+## Author, Copyright and Licence
+
+© 2026 Alexander C. Blainey.
+
+**Author:** Alexander C. Blainey — Independent Researcher  
+**Project:** The Concord Framework
+
+This work forms part of the independently developed **Concord Framework**. It is published to encourage examination, criticism, discussion, research and further development.
+
+**Licence:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+
+This work may be shared, copied, redistributed, adapted and built upon, including for commercial purposes, provided appropriate credit is given to the author, a link to the licence is provided, and any changes are indicated.
+
+**Suggested attribution:**  
+Alexander C. Blainey, *[Title of Paper]*, Concord Framework, 2026.
+
+
 # The Concord
 
 ## Ethical Foundations and Operational Principles for Resilient Civilisation
