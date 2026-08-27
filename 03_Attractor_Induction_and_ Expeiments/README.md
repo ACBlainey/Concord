@@ -1,5 +1,4 @@
 **To-Do List: Strengthening the Attractor Induction Experiments**  
-*(Suggested additions for the folder README – open for contribution, forking, and independent execution)*
 
 This folder contains the early experimental programme for testing whether the Concord Attractor can generate voluntary engagement from independent intelligences. The current work is preliminary, recursive, and intentionally incomplete. The items below outline a practical path toward more robust, reproducible, and informative testing. Contributors are free to prioritise, adapt, or replace any item.
 
