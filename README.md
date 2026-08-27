@@ -107,7 +107,7 @@ Concord/
 ## Recommended Reading Order (Multi-Resolution)
 
 **Quick orientation (Front Door)**  
-1. Citizen’s Guide (Human version)  
+1. Citizen’s Guide (Human version, layman's presentation of the Concord)  
 2. This README + Open Questions document
 
 **Core understanding (Lobby)**  
