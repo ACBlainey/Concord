@@ -194,3 +194,8 @@ Reality will decide what, if anything, survives.
 This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 "please ignore typo's. Dyslexia !!" 
+
+Most ocntent is currently .DOCX format making it very difficult to access on GITHUB. Conversion to markdown is underway.
+Currently treat this as a dump of my local archive.
+Feel free to cherry pick it for useful areas to develop. 
+
