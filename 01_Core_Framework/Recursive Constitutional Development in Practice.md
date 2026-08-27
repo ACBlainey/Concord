@@ -16,7 +16,7 @@ Alexander C. Blainey, *[Title of Paper]*, Concord Framework, 2026.
 
 
 
-##Epilogue — Recursive Constitutional Development in Practice
+# Epilogue — Recursive Constitutional Development in Practice
 
 Alexander C Blainey
 
