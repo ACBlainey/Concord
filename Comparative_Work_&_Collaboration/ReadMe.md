@@ -9,8 +9,6 @@ Notes and materials on relating the Concord to other frameworks and on collabora
 This folder supports external engagement, comparison, and potential joint development of the project.
 
 
-**Cleaned-up text for the README:**
-
 ---
 
 This folder contains information, papers, and notes comparing the Concord with existing relevant works, as well as materials related to collaborations with other authors and academics.
