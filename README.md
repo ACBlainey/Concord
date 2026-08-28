@@ -175,7 +175,7 @@ Individual papers should be cited by their specific titles and versions.
 
 ---
 
-External Evaluation
+## External Evaluation
 
 The Concord is intentionally released as an incomplete framework for independent evaluation. External reviews, comparisons, criticisms, applications and proposed extensions are welcomed. Where substantive independent evaluations are received, they may be recorded alongside the project as part of its continuing provenance and development history.
 
