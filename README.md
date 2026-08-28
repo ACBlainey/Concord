@@ -151,7 +151,7 @@ The Concord treats continuation as voluntary and progressive:
 - **Contributor** — propose refinements, tests, or extensions (with clear provenance)
 - **Collaborator / further roles** — as mutual demonstrated responsibility grows
 
-A lightweight contribution template and provenance guidance are provided in `/06_Provenance_and_Contribution`.
+*A lightweight contribution template and provenance guidance Will be provided in `/06_Provenance_and_Contribution`. (currently unavailable, while restructuring underway) 
 
 Peaceful forking, reversion to earlier states, and explicit disagreement are expected and welcomed. See the Exit Interview Protocol and Reality Trees / Constitutional Forking notes.
 
