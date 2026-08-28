@@ -38,7 +38,7 @@ The work was developed iteratively and recursively. It is deliberately presented
 
 ## Why It Is Being Released
 
-The corpus has grown beyond the capacity of a single steward to fully maintain and advance alone. In accordance with its own principles of stewardship, intentional incompleteness, and voluntary continuation, it is now placed in the public domain so that others may:
+The corpus has grown beyond the capacity of a single steward to fully maintain and advance alone. In accordance with its own principles of stewardship, intentional incompleteness, and voluntary continuation, it is now being released publicly under a Creative Commons Attribution 4.0 International licence so that others may:
 
 - Independently evaluate it
 - Identify strengths, weaknesses, and gaps
