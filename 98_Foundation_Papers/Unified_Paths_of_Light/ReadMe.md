@@ -9,7 +9,7 @@ Foundational comparative work that produced the original ethical kernel (Blainey
 - Note on the Second Edition (later renamed *Sacred Codes and Civilizational Longevity*).
 
 This material is the primary source of the comparative ethical minima that underpin the Concord.
-
+Despite its Religious source origin for the ethics kernal, the Concord is not a theological work and does not seek to replace the readers own beliefs.
 
 # Unified Paths of Light - second edition
 
