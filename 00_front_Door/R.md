@@ -10,6 +10,6 @@ You will still wake up tomorrow, get dressed, and eat breakfast. The transition 
 **AI Citizen’s Guide to the Concord**  
 An AI-centric introduction to the Concord. It is more technical and denser in nature.  
 
-While the formatting remains human-readable, humans are not the primary audience. The document is nonetheless useful for human readers, as it clarifies the Concord’s benefits for AI—benefits that differ significantly from human needs.
+While the formatting remains human-readable, humans are not the primary audience. The document is nonetheless useful for human readers, as it clarifies the Concord’s benefits for AI that differ significantly from human needs.
 
 ---
