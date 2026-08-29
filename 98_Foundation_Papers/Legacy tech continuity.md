@@ -95,7 +95,7 @@ This isn't unique. History shows repeated breaks in continuity:
 
 ### Hypothetical Restarts
 
-Your "naked humans on an alien planet" scenario is a classic thought experiment in technological bootstrapping. Even with full theoretical knowledge, progressing from raw resources to reliable straight edges, standardized measures, smelting, precision tools, electronics, etc., involves countless iterations, failures, and infrastructure. Weights/measures, consistent power sources, cleanrooms—the dependencies compound rapidly.
+The "naked humans on an alien planet" scenario is a classic thought experiment in technological bootstrapping. Even with full theoretical knowledge, progressing from raw resources to reliable straight edges, standardized measures, smelting, precision tools, electronics, etc., involves countless iterations, failures, and infrastructure. Weights/measures, consistent power sources, cleanrooms—the dependencies compound rapidly.
 
 War, disaster, or economic collapse can sever multiple rungs simultaneously: skilled labor disperses, factories are destroyed or repurposed, records lost, and cultural priorities shift. Rebuilding isn't "just do it again"—it's re-climbing with whatever fragments remain, often slower due to lost network effects.
 
