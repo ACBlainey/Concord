@@ -52,3 +52,6 @@ For individuals raised in a world where watching a YouTube video is equated with
 ## Conclusion
 
 The conflation of information access with genuine education represents a significant threat to intellectual development and professional competence. As digital tools continue to advance, the gap between appearing educated and being educated threatens to widen further. Addressing this issue requires not only pedagogical reform but also a cultural shift in how we understand and value genuine learning over information retrieval. Without such changes, we risk producing generations of graduates who possess credentials without the corresponding depth of understanding those credentials are meant to signify.
+
+
+NB: Yes I see the irony ! 
