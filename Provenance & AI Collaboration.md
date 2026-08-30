@@ -24,6 +24,8 @@ The AI systems were used for:
 - Cross-referencing ideas across the growing corpus
 - Accelerating the production of clear academic prose
 
+Collaboration quantity varies paper by paper, check header for clues. Assume all have at least had spelling, grammar and a quick format shuffle for consistency as a bare minimum. 
+
 In Concord terminology, the AI contributions fall primarily into the categories of **editorial**, **collaborative**, and occasionally **substantive** assistance, under continuous human direction and final authorship.
 
 No AI system is claimed as a co-author in the traditional academic sense. The intellectual responsibility, final form, and accountability for the published corpus remain with the human author.
