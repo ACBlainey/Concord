@@ -10,3 +10,5 @@ Ongoing comparative work evaluations will be added as and when preformed as part
 Offshoot research projects may be included in sub folders as they develop.
 Anything related but with no specif home will be placed in the STUFF folder until it finds a natural place.
 
+Random spelling mistakes will be corrected as I notice them .......... I generally don't notice them ! so that may take time. Point them out if you see them.
+
