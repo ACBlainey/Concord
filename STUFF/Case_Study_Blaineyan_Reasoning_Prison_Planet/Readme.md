@@ -48,6 +48,9 @@ Its value lies partly in documenting the process itself: how speculative reasoni
 ---
 
 ## Related Work
+This case study relates to the foundation work which derived the Ethics Kernal (Blaineys Laws) for thr Concord. It speculatively asks where dis those Ethics originate?
+
+https://github.com/ACBlainey/Concord/tree/main/98_Foundation_Papers/Unified_Paths_of_Light
 
 This case study is part of the broader **Concord corpus**, which explores the intersection of reasoning methodology, ethical systems and speculative inquiry. For the full context, visit the main repository:
 
