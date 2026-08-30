@@ -1,5 +1,5 @@
 Notes on folder, files, titles, copyright notices etc
-Nearly all file have now been converted to md for online accessibility.
+Nearly all files have now been converted to md for online accessibility.
 Copyright, license info now added to nearly all files. 
 All files are subject to editing and changes, watch out for updated versions.
 
