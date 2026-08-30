@@ -107,7 +107,8 @@ The objective should therefore not be to eliminate AI influence. It should be to
 
 There is an additional complication in my own case that amplifies these concerns and introduces distinct challenges.
 
-I have often described my dyslexia to others using an analogy involving a computer connected to the internet. For most people, written language is effectively a high-bandwidth connection. Reading and writing can occur relatively directly. For me, the connection is considerably less efficient. Written language often feels almost like a second language. When reading, I effectively have to translate the written material internally before its meaning becomes fully accessible in my normal internal language. The reverse process occurs when writing: an internally coherent idea has to be converted into written language.
+I have often described my dyslexia to others using an analogy involving a computer connected to the internet. For most people, written language is effectively a high-bandwidth connection. Reading and writing can occur relatively directly. For me, the connection is considerably less efficient. more like a super computer connected via dial up !
+Written language often feels almost like a second language. When reading, I effectively have to translate the written material internally before its meaning becomes fully accessible in my normal internal language. The reverse process occurs when writing: an internally coherent idea has to be converted into written language.
 
 Both directions are slow, cumbersome and prone to errors. I may therefore read and reread a paragraph several times before extracting what it actually says. Likewise, I may write and rewrite the same paragraph repeatedly before it becomes readily understandable to someone else.
 
