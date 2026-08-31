@@ -48,6 +48,8 @@ Its value lies partly in documenting the process itself: how speculative reasoni
 A further extension has been added. Religion as a emergent memetic transmission 
 This is reexamination recursion which ironically reintroduces the possibility of higher intelligence passing the ethics kernel down to humanity. but through this speculative recursion even more insight of the big picture is gained.
 
+This set is deliberatley left as seperate files and unpolished as they represent the provenance of the Concord methodology, which is usually lost very early in the development process.
+Typically this kind of single case would be devolped into one paper.
 ---
 
 ## Related Work
