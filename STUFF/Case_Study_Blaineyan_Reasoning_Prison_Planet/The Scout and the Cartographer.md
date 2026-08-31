@@ -130,7 +130,7 @@ If the cartographers respond:
 
 > "You did not map the territory properly, therefore nothing you saw is worth investigating,"
 
-the civilisation may never discover what lies beyond the existing map.
+the civilisation may never discover what lies beyond the existing map or the resources and potential dangers ahead. 
 
 The appropriate response should instead be:
 
