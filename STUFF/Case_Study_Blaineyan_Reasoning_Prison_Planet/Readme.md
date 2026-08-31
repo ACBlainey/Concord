@@ -46,7 +46,7 @@ This is a **developing research case study**, not a claim that the Prison Planet
 Its value lies partly in documenting the process itself: how speculative reasoning can be used to generate alternative explanations, expose assumptions, identify failure points and return to questions that may be amenable to conventional empirical investigation.
 
 A further extension has been added. Religion as a emergent memetic transmission 
-This is reexamination recursion whic ironically reintroduces the possibility of higher intelligence passing the ethic kernel down to humanity. but through this speculative recursion even more insight of the big picture is gained.
+This is reexamination recursion which ironically reintroduces the possibility of higher intelligence passing the ethics kernel down to humanity. but through this speculative recursion even more insight of the big picture is gained.
 
 ---
 
