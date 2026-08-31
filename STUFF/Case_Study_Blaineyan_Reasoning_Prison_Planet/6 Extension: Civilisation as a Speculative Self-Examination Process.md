@@ -339,6 +339,11 @@ If that proves to be the case, Blaineyan Reasoning would not merely describe an 
 
 It would describe a potentially fundamental mechanism through which intelligent societies explore their own possibility space while remaining capable of returning to reality.
 
+
+Final personal thought: I find the brief exploration of warfare particularly interesting—and somewhat ironic. Distilled down, the hypothesis becomes that two civilisations may possess essentially the same universal ethical kernel at their core, yet fight for supremacy in order to defend or promote the very different meta-structures they have built around that shared core.
+
+On the face of it, this seems almost ludicrous.
+
 ---
 
 *This paper is part of the Concord corpus and is published under the terms of the Concord Public License.*
