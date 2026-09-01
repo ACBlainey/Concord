@@ -30,6 +30,7 @@ The intention is simple:
 ## Modules ##
 
 Triadic Decision Making.md
+
 A proposed decision-making system using three independent decision-makers to reduce individual bias and single-point failure, with majority decisions, explicit abstention, dissent preservation, escalation and review.
 
 
