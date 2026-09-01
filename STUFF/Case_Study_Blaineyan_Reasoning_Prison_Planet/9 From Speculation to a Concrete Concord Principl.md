@@ -155,6 +155,8 @@ The journey from the Prison Planet hypothesis to the Ethical Meaning Preservatio
 4. The failure mode produced a concrete design requirement
 5. That requirement can now be tested, implemented and refined
 
+Note: his is in additional to several potential research projects the exercise uncovered.
+
 The original speculative branches may or may not survive future investigation. But the insight they generated—that transmission itself can be a source of ethical degradation—has already produced a tangible contribution to the Concord framework.
 
 > **Speculation is not the destination. It is a tool for discovering what lies beyond the current map.**
