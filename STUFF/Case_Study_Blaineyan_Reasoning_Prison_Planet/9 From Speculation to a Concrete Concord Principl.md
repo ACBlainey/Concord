@@ -125,7 +125,7 @@ This therefore becomes a concrete Concord design requirement:
 
 This is a direct example of the value of the speculative methodology.
 
-The Prison Planet hypothesis itself may ultimately prove completely unsupported. The external-origin branches may be discarded entirely.
+The Prison Planet hypothesis itself may ultimately prove completely unsupported. The external-origin branches may be discarded entirely. This is fully expected given the nature of the speculative hypothesis.
 
 Yet the exploration was not wasted.
 
