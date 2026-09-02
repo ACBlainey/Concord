@@ -27,24 +27,26 @@ The intention is simple:
 
 > **Take useful ideas out of the larger Concord and give them an opportunity to prove themselves independently.**
 
+These modules comprise of civilisation specific systems and Concordian methodology. The reasoning methodology is applicable across many domains and may be far more useful to most than the Civilization systems.
+
 ## Modules ##
 
-Triadic Decision Making.md
+## Triadic Decision Making ##
 
 A proposed decision-making system using three independent decision-makers to reduce individual bias and single-point failure, with majority decisions, explicit abstention, dissent preservation, escalation and review.
 
 
-Blaineys's Law - The Ethical Kernel.
+## Blaineys's Law - The Ethical Kernel ##
 
 The ethical minima proposed for providing stability to a civilization. 
 
 
-Reality Trees
+## Reality Trees ##
 
 A reasoning visualisation method for evaluating competing hypothesis, beliefs, opposing arguements etc.
 
 
-The Legacy Ladder- Knowledge and Technological Continuity
+## The Legacy Ladder- Knowledge and Technological Continuity ##
 
 The importance of maintaining provenance of technological progresion
 
