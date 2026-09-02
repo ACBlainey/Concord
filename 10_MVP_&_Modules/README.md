@@ -39,3 +39,8 @@ Blaineys's Law - The Ethical Kernel.
 The ethical minima proposed for providing stability to a civilization. 
 
 
+Reality Trees
+
+A reasoning visualisation method for evaluating competing hypothesis, beliefs, opposing arguements etc.
+
+
