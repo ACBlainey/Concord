@@ -12,3 +12,4 @@ Anything related but with no specific home will be placed in the STUFF folder un
 
 Random spelling mistakes will be corrected as I notice them .......... I generally don't notice them ! so that may take time. Point them out if you see them.
 
+This is still a living, developing project so it is not a polished as a finalized presentation.
