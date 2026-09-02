@@ -54,5 +54,9 @@ The importance of maintaining provenance of technological progresion
 
 Addressing the issue of increasing collaboration between Human and AI authors.
 
+## Recursive Oversight ##
+
+Governance and system self correction
+
 
 
