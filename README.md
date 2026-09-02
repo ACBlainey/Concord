@@ -94,11 +94,25 @@ Concord/
 │   ├── Design Notes
 │   └── Supporting Material
 │
+├── 07_Provenance_and_Contribution
+│  
+│
+├── 10_MVP_&_Modules
+│
+│
 ├── 98_Foundation_Papers/
 │
 ├── 99_Open_Questions_and_Next_Steps/
 │
-└── Comparative_Work_&_Collaboration/
+├── Comparative_Work_&_Collaboration/
+│
+├──STUFF
+│   ├── Case_Study_Blaineyan_reasononing
+│   ├── Images
+│   ├── Ongoing working files, ideas, not yet sorted to relevant place.
+│
+
+ 
 </pre>
  
 
