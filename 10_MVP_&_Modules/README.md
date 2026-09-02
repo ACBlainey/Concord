@@ -27,7 +27,7 @@ The intention is simple:
 
 > **Take useful ideas out of the larger Concord and give them an opportunity to prove themselves independently.**
 
-These modules comprise of civilisation specific systems and Concordian methodology. The reasoning methodology is applicable across many domains and may be far more useful to most than the Civilization systems.
+These modules comprise of civilisation specific systems and Concordian methodology. The reasoning methodology is applicable across many domains and may be far more useful to most readers than the Civilization systems.
 
 ## Modules ##
 
