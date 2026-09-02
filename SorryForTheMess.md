@@ -11,5 +11,6 @@ Offshoot research projects may be included in sub folders as they develop.
 Anything related but with no specific home will be placed in the STUFF folder until it finds a natural place.
 
 Random spelling mistakes will be corrected as I notice them .......... I generally don't notice them ! so that may take time. Point them out if you see them.
+US/UK English is interchageable as I use both.
 
 This is still a living, developing project so it is not a polished as a finalized presentation.
