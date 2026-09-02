@@ -58,5 +58,8 @@ Addressing the issue of increasing collaboration between Human and AI authors.
 
 Governance and system self correction
 
+## Roadway Equilibrium ##
+
+Ballancing tension between creation and constraint of systems.
 
 
