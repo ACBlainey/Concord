@@ -50,4 +50,9 @@ A reasoning visualisation method for evaluating competing hypothesis, beliefs, o
 
 The importance of maintaining provenance of technological progresion
 
+## AI Provenance & Collaboration Levels ##
+
+Addressing the issue of increasing collaboration between Human and AI authors.
+
+
 
