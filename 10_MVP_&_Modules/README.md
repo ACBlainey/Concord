@@ -44,3 +44,8 @@ Reality Trees
 A reasoning visualisation method for evaluating competing hypothesis, beliefs, opposing arguements etc.
 
 
+The Legacy Ladder- Knowledge and Technological Continuity
+
+The importance of maintaining provenance of technological progresion
+
+
