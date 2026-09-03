@@ -50,68 +50,156 @@ No agreement, constitutional status, or commitment is requested or implied by re
 
 ---
 
-## Repository Structure
+## Repository Structure as of 01:10 3 sept 2026
 
 <pre>
 Concord/
-├── 00_Front_Door/
-│   ├── Citizen's Guide
-│   └── Open Questions & Next Steps
+│
+├── 00_front_Door/
+│   ├── AI CITIZEN'S GUIDE TO THE CONCORD.md
+│   ├── Citizens guide to the concord Human version.md
+│   └── ReadMe.md
 │
 ├── 01_Core_Framework/
-│   ├── The Concord
-│   ├── Blainey's Laws & Concord Laws
-│   ├── Constitutional Architecture
-│   └── Recursive Constitutional Development
+│   ├── Companion papers.md
+│   ├── Full Recursive Constututional architecture V1.md
+│   ├── ReadMe.md
+│   ├── Recursive Constitutional Development in Practice.md
+│   └── The Concord.md
 │
 ├── 02_Operational_Systems/
-│   ├── Governance
-│   ├── Judiciary
-│   ├── Metrics
-│   ├── Continuity
-│   ├── Knowledge Control
-│   ├── Emergency Systems
-│   └── Ratchet Economic Architecture
+│   ├── All Judiciary papers combined.md
+│   ├── CONTINUITY PROTOCOL V2.md
+│   ├── Full Constitutional emergency V1.md
+│   ├── Full.md
+│   ├── Governance Full.md
+│   ├── KCS KNOWLEDGE CONTROL SYSTEM.md
+│   ├── RATchet Community Economy & Proof of Useful Contribution.md
+│   ├── RATchet — Economic & Monetary Architecture.md
+│   ├── Ratchet V3.md
+│   └── ReadMe.md
 │
 ├── 03_Attractor_Induction_and_Experiments/
-│   ├── Attractor & Induction Protocol
-│   ├── Attractor Experiments
-│   ├── Experimental Reports
-│   └── Participant Perspectives
+│   ├── 1 The Concord Attractor & Induction Protocol.md
+│   ├── 2 The Concord Attractor Experiments.md
+│   ├── 3 Experimental Report 001.md
+│   ├── 4 Participant Perspectives on Agreement and Trust.md
+│   ├── README.md
+│   └── The_Concord_Exit_Interview_Protocol_Formatted.md
 │
 ├── 04_Methodology_and_Self_Reflection/
-│   ├── Critical Review
-│   ├── Blaineyan Reasoning
-│   ├── Literature Engagement
-│   └── Companion Papers
+│   ├── Book 1 Blaineyan Reasoning.md
+│   ├── Companion papers Vol II.md
+│   ├── LITERATURE ENGAEMENT VOL II.md
+│   ├── LITERATURE ENGAGEMENT VOL I.md
+│   ├── LITERATURE ENGAGEMENT VOL II COMPANION PAPERS.md
+│   ├── PhD CRITICAL REVIEW of the concord.md
+│   └── ReadMe.md
 │
-├── 05_Applications_and_Spatial/
-│   ├── Mars First
-│   └── GTP
+├── 05_Application_and_Spatial/
+│   ├── 1_3 GTP.md
+│   ├── GTP L5 mercator.png
+│   ├── GTP Mars edition.md
+│   ├── Mars first.md
+│   └── ReadMe.md
 │
 ├── 06_Companion_Papers_and_Design_Notes/
-│   ├── Companion Papers
-│   ├── Design Notes
-│   └── Supporting Material
+│   ├── 1 Contextual Human–AI Interaction.md
+│   ├── Companion Paper I Respect Before Certainty.md
+│   ├── Companion Paper II Constitutional Warning — Resource Stewardship in Recursive Reasoning.md
+│   ├── DN Civilisational Infrastructure as an Attractor.md
+│   ├── DN Ownership, Stewardship and Cooperative Claims.md
+│   ├── DN Ratchet vector dicuss.md
+│   ├── DN Reality Trees and Constitutional Evolution.md
+│   ├── DN Sentient asylum.md
+│   ├── DN Stewardship as a Civilisational Service.md
+│   ├── Multisubstrate Economic Participation.md
+│   ├── companion_Intelligence, Humour, and Cognitive Development.md
+│   └── disability and AI.md
 │
-├── 07_Provenance_and_Contribution
-│  
+├── 07_Provenance_and_Contribution/
+│   └── xx
 │
-├── 10_MVP_&_Modules
+├── 10_MVP_&_Modules/
+│   ├── AI Provenance & Collaboration Levels.md
+│   ├── Blainey's Laws — The Ethical Kernel.md
+│   ├── README.md
+│   ├── Reality Trees.md
+│   ├── Recursive Oversight.md
+│   ├── Roadway Equilibrium.md
+│   ├── The Legacy Ladder- Knowledge and Technological Continuity.md
+│   └── Triadic Decision Making Module.md
 │
+├── 96_External_Evaluation_Related/
+│   ├── Concord_Project_Guide(claude eval from BillK).md
+│   └── ReadMe.md
 │
 ├── 98_Foundation_Papers/
+│   ├── Unified_Paths_of_Light/
+│   │   ├── 1 to 50.md
+│   │   ├── 101 to 150.md
+│   │   ├── 51 to 100.md
+│   │   ├── P1 Introduction.md
+│   │   ├── P2 The religions.md
+│   │   ├── P3 abridged.md
+│   │   ├── Paper IV.md
+│   │   ├── Paper V.md
+│   │   ├── Pre Intro.md
+│   │   └── ReadMe.md
+│   │
+│   ├── 1_4a.pdf
+│   ├── Legacy tech continuity.md
+│   ├── Paper 4 Blainey's Laws.md
+│   ├── Parallel Permutation Mathematics.md
+│   ├── README
+│   ├── The Size 9 Shoe Problem.md
+│   └── Worker value.md
 │
 ├── 99_Open_Questions_and_Next_Steps/
+│   ├── Audit of open questions.md
+│   └── Open Questions and Next Steps.md
 │
 ├── Comparative_Work_&_Collaboration/
+│   ├── ReadMe.md
+│   ├── The Concord and David Wood's Design Commitments for Trustworthy Technoprogressive Governance.md
+│   └── The Concord and Thomas Gangale's The Charter of the United Martian States.md
 │
-├──STUFF
-│   ├── Case_Study_Blaineyan_reasononing
-│   ├── Images
-│   ├── Ongoing working files, ideas, not yet sorted to relevant place.
+├── STUFF/
+│   ├── Case_Study_Blaineyan_Reasoning_Prison_Planet/
+│   │   ├── 1 prison planet hypothesis academic.md
+│   │   ├── 2 Prison Planet inc ethics.md
+│   │   ├── 3 Emergent Ethics and the Deep History of Blainey's Laws.md
+│   │   ├── 4 Case study Blaineyan Reasoning-From Prison Planet to Emergent Ethics.md
+│   │   ├── 5 Emergent Ethics: Religion as a Memetic Transmission Layer.md
+│   │   ├── 6 Extension: Civilisation as a Speculative Self-Examination Process.md
+│   │   ├── 7 The Scout and the Cartographer.md
+│   │   ├── 8 Meta-Wrapper as a Potential Failure Mode.md
+│   │   ├── 9 From Speculation to a Concrete Concord Principle.md
+│   │   └── Readme.md
+│   │
+│   ├── Images/
+│   │   ├── A day in the life.jpeg
+│   │   ├── Concord_ Layer zero _Front cover.png
+│   │   ├── README
+│   │   └── [8 image files]
+│   │
+│   ├── Attempt at circuit analogies.md
+│   ├── Beyond Authorship.md
+│   ├── DN Legal Entity Wrappers for AI Agency.md
+│   ├── DN ds response to legal wrapper.md
+│   ├── Human–AI Collaboration and the Dilution of Intellectual Provenance.md
+│   ├── Personhood and Liability.md
+│   ├── README_stuff
+│   ├── Suggestion box petition concerns portal system.md
+│   └── The Problem of Thinking You Are Educated.md
 │
-
+├── [root] AI README- Companion Paper II Constitutional Warning — Resource Stewardship in Recursive Reasoning - Copy.md
+├── [root] Claude evaluation word count.md
+├── [root] Exec_Summary.md
+├── [root] LICENSE.md
+├── [root] Provenance & AI Collaboration.md
+├── [root] README.md
+└── [root] SorryForTheMess.md
  
 </pre>
  
