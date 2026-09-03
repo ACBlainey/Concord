@@ -202,8 +202,50 @@ Concord/
 └── [root] SorryForTheMess.md
  
 </pre>
- 
 
+## Logical structure ##
+ <pre>
+                         THE CONCORD
+                              │
+             ┌────────────────┼────────────────┐
+             │                │                │
+          ETHICS        CONSTITUTION       METHOD
+             │                │                │
+      Blainey's Laws    Recursive system   Blaineyan
+             │                │             Reasoning
+             │                │                │
+             └────────────┬───┴────────────────┘
+                          │
+                    OPERATIONAL SYSTEMS
+                          │
+       ┌──────────┬───────┼────────┬─────────┐
+       │          │       │        │         │
+    Governance Judiciary KCS   Continuity Ratchet
+       │
+       └──────────────────────────────────┐
+                                          │
+                              APPLICATION / EXPERIMENT
+                                          │
+                    ┌─────────────────────┼──────────────────┐
+                    │                     │                  │
+                  GTP                  Mars First        Attractor
+                    │                     │             Experiments
+                    │                     │                  │
+                    └─────────────────────┴──────────────────┘
+                                          │
+                                PORTABLE MODULES
+                                          │
+                               independent testing
+                                          │
+                                          ▼
+                                REAL-WORLD FEEDBACK
+                                          │
+                                          ▼
+                              RECURSIVE DEVELOPMENT
+                                          │
+                                          └──────► back to core
+
+  </pre>
 --- 
 
 ## Recommended Reading Order (Multi-Resolution)
